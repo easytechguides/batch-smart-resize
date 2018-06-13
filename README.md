@@ -7,7 +7,7 @@ batch-smart-resize
 
 
 #### Installation
-- Download https://github.com/per1234/batch-smart-resize/archive/master.zip
+- Download https://github.com/easytechguides/batch-smart-resize/archive/master.zip
 - Unzip and move the file batch-smart-resize.scm to your GIMP scripts folder. You can find the location of the scripts folder by going to **Edit > Preferences > Folders > Scripts**.
 - If GIMP is running click **Filters > Script-Fu > Refresh Scripts**.
 
